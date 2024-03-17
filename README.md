@@ -10,9 +10,10 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Frontend Developer</h2></summary>
   </ul>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA1cTRuY3Y2dXlkNTR5OXcxbTB6bnpuNGtqODA5czNmbjFsbGwweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" width="20%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ6cGF4c3FoNTRtZGJxZDE0em9pcXFxaG85dDBuejh0cXNydHMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0DKL9Jhyz8nKog/giphy.gif" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 
 <!--Intro start-->
 - 🔭 I’m currently working on AngularJs, ReactJs, Nodejs**

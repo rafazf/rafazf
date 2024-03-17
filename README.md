@@ -1,8 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Rafael Zapata <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA1cTRuY3Y2dXlkNTR5OXcxbTB6bnpuNGtqODA5czNmbjFsbGwweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" width="5%" height="5%" class="giphy-embed" allowFullScreen></img></h1>
-    
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rafael Zapata </h1>
     </summary>
   </ul>
 </div>

@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/VOgpnDOAddaN0zr9UE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<img src="https://giphy.com/embed/VOgpnDOAddaN0zr9UE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <!--Intro start-->
 - 🔭 I’m currently working on AngularJs, ReactJs, Nodejs**

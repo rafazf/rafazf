@@ -10,7 +10,9 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Frontend Developer</h2></summary>
   </ul>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA1cTRuY3Y2dXlkNTR5OXcxbTB6bnpuNGtqODA5czNmbjFsbGwweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" width="20%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+ <ul aling="center">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA1cTRuY3Y2dXlkNTR5OXcxbTB6bnpuNGtqODA5czNmbjFsbGwweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+ </ul>
 </div>
 
 

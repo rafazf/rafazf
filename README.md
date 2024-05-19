@@ -9,7 +9,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Frontend Developer</h2></summary>
+    <summary><h2 style="display: inline-block">Computer Enginner</h2></summary>
   </ul>
 </div>
 
@@ -17,9 +17,6 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on AngularJs, ReactJs, Nodejs**
-
-- 🌱 I'm currently a **product manager** of the **frontend** team of a fintech in the city of Spain 🇪🇸
-
 - 📫 Feel free to reach me out **raelzapataf@gmail.com**
 <!--Intro end-->
 

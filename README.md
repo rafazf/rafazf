@@ -16,7 +16,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on AngularJs, ReactJs, Nodejs**
+- 🔭 I’m currently working on AngularJs, VueJs, ReactJs, Nodejs**
 - 📫 Feel free to reach me out **raelzapataf@gmail.com**
 <!--Intro end-->
 
